@@ -1,0 +1,42 @@
+.job-logo-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 5px;
+}
+.rating-cont {
+  margin-left: 10px;
+}
+.logo-url {
+  width: 100px;
+}
+.details-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.location-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.location {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+.list {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 10px;
+  color: white;
+}
+.card-Link {
+  color: white;
+  text-decoration: none;
+}

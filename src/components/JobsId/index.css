@@ -1,0 +1,44 @@
+.jobitem {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+
+.company-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.external-site {
+  color: #6366f1;
+  font-size: 20px;
+}
+.skills-ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.similar-head {
+  color: white;
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 10px;
+}
+.skills-img {
+  margin-right: 20px;
+}
+.lifeAtCompany-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

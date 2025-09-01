@@ -1,0 +1,45 @@
+.input-cont {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.input {
+  width: 250px;
+  height: 30px;
+  color: white;
+  margin-left: 10px;
+  margin: 10px;
+}
+.search-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.search-icon {
+  font-size: 20px;
+  color: white;
+  background-color: #272727;
+  width: 30px;
+  height: 30px;
+}
+.jobs-cont {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.ul {
+  list-style: none;
+}
+.checkbox {
+  margin: 10px;
+}
+.jobdetails-cont {
+  width: max-content;
+}
+.noJobs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

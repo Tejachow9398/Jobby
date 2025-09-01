@@ -1,0 +1,15 @@
+.profile-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 10px;
+  border-radius: 12px;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+.profile-name {
+  color: #6366f1;
+}
+.profile-bio {
+  color: #64748b;
+}

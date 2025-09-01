@@ -1,0 +1,17 @@
+.home-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0px;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
